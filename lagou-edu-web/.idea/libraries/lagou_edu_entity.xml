@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lagou-edu-entity">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../lagou-edu-parent/lagou-edu-entity" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../lagou-edu-parent/lagou-edu-entity/src/main/java" />
+    </SOURCES>
+  </library>
+</component>

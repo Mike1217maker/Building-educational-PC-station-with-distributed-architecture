@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5aa159cf-616e-46ce-a316-29756e33a760" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="lagou-edu-entity" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Arquillian JUnit Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\software\repository" />
+        <option name="mavenHome" value="D:/software/maven/apache-maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hDA8jLftmr12IZj2zZOE9Goy2y" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lagou-edu-parent" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15429688" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.lagou.user.controller" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.lagou.wx" />
+      <recent name="com.lagou.course.controller" />
+      <recent name="com.lagou.course" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\57047\Desktop\lagou-edu-web\src\main\java\com\lagou" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="lagou-edu-web [package]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="package" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Maven.lagou-edu-web [package]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+    <option name="runUnderTerminal" value="true" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5aa159cf-616e-46ce-a316-29756e33a760" name="Default Changelist" comment="" />
+      <created>1599535131909</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599535131909</updated>
+      <workItem from="1599535134825" duration="7360000" />
+      <workItem from="1599617577215" duration="10009000" />
+      <workItem from="1599714316098" duration="7874000" />
+      <workItem from="1599791229363" duration="565000" />
+      <workItem from="1599791838102" duration="15000" />
+      <workItem from="1599791927327" duration="2749000" />
+      <workItem from="1600050361267" duration="3347000" />
+      <workItem from="1600138413594" duration="2020000" />
+      <workItem from="1600222151963" duration="1838000" />
+      <workItem from="1600308604408" duration="1560000" />
+      <workItem from="1600395406815" duration="8830000" />
+      <workItem from="1600655932143" duration="2863000" />
+      <workItem from="1600741972709" duration="18859000" />
+      <workItem from="1600829513623" duration="4295000" />
+      <workItem from="1600914597390" duration="19761000" />
+      <workItem from="1601011402688" duration="1861000" />
+      <workItem from="1694264440309" duration="2867000" />
+      <workItem from="1694322053092" duration="1323000" />
+      <workItem from="1694323580177" duration="7638000" />
+      <workItem from="1694404977091" duration="4155000" />
+      <workItem from="1694412293312" duration="3500000" />
+      <workItem from="1694505816092" duration="2078000" />
+      <workItem from="1694579947505" duration="2456000" />
+      <workItem from="1694586056567" duration="201000" />
+      <workItem from="1694586315938" duration="521000" />
+      <workItem from="1694588638746" duration="4119000" />
+      <workItem from="1694751834586" duration="60000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="67" key="#Notifications" timestamp="1694264676209">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="361" y="67" key="#Notifications/0.0.1536.816@0.0.1536.816" timestamp="1694264676209" />
+    <state x="361" y="67" key="#Project_Structure" timestamp="1694336366365">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="361" y="67" key="#Project_Structure/0.0.1536.816@0.0.1536.816" timestamp="1694336366365" />
+    <state x="223" y="38" width="1089" height="778" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1694272813000">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="223" y="38" width="1089" height="778" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.816@0.0.1536.816" timestamp="1694272813000" />
+    <state x="444" y="123" key="DetectedRootsChooserDialog" timestamp="1694273005807">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="444" y="123" key="DetectedRootsChooserDialog/0.0.1536.816@0.0.1536.816" timestamp="1694273005807" />
+    <state x="549" y="163" key="FileChooserDialogImpl" timestamp="1694586322954">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="549" y="163" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1694586322954" />
+    <state width="1478" height="115" key="GridCell.Tab.0.bottom" timestamp="1694590932692">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1478" height="115" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1694590932692" />
+    <state width="1478" height="115" key="GridCell.Tab.0.center" timestamp="1694590932692">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1478" height="115" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1694590932692" />
+    <state width="1478" height="115" key="GridCell.Tab.0.left" timestamp="1694590932692">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1478" height="115" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1694590932692" />
+    <state width="1478" height="115" key="GridCell.Tab.0.right" timestamp="1694590932692">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1478" height="115" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1694590932692" />
+    <state width="1478" height="287" key="GridCell.Tab.1.bottom" timestamp="1694586127439">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1478" height="287" key="GridCell.Tab.1.bottom/0.0.1536.816@0.0.1536.816" timestamp="1694586127439" />
+    <state width="1478" height="287" key="GridCell.Tab.1.center" timestamp="1694586127439">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1478" height="287" key="GridCell.Tab.1.center/0.0.1536.816@0.0.1536.816" timestamp="1694586127439" />
+    <state width="1478" height="287" key="GridCell.Tab.1.left" timestamp="1694586127439">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1478" height="287" key="GridCell.Tab.1.left/0.0.1536.816@0.0.1536.816" timestamp="1694586127439" />
+    <state width="1478" height="287" key="GridCell.Tab.1.right" timestamp="1694586127439">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1478" height="287" key="GridCell.Tab.1.right/0.0.1536.816@0.0.1536.816" timestamp="1694586127439" />
+    <state x="329" y="192" key="NewModule_or_Project.wizard" timestamp="1694272381139">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="329" y="192" key="NewModule_or_Project.wizard/0.0.1536.816@0.0.1536.816" timestamp="1694272381139" />
+    <state x="170" y="0" key="SettingsEditor" timestamp="1694336746009">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="170" y="0" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1694336746009" />
+    <state x="101" y="101" width="1341" height="614" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1694349518463">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="101" y="101" width="1341" height="614" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.816@0.0.1536.816" timestamp="1694349518463" />
+    <state x="101" y="101" width="1341" height="614" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog" timestamp="1694331035297">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="101" y="101" width="1341" height="614" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog/0.0.1536.816@0.0.1536.816" timestamp="1694331035297" />
+    <state x="449" y="232" key="com.intellij.ide.util.TipDialog" timestamp="1694586315928">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="449" y="232" key="com.intellij.ide.util.TipDialog/0.0.1536.816@0.0.1536.816" timestamp="1694586315928" />
+    <state x="543" y="111" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1694349473184">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="543" y="111" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.816@0.0.1536.816" timestamp="1694349473184" />
+    <state x="377" y="108" width="782" height="600" key="find.popup" timestamp="1694328180620">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="377" y="108" width="782" height="600" key="find.popup/0.0.1536.816@0.0.1536.816" timestamp="1694328180620" />
+    <state x="425" y="185" key="run.anything.popup" timestamp="1694264679471">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="425" y="185" key="run.anything.popup/0.0.1536.816@0.0.1536.816" timestamp="1694264679471" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lagou/course/controller/CourseController.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
